@@ -1,0 +1,11 @@
+{
+    "common cold": {
+        "symptoms": [
+            "sore throat",
+            "runny nose",
+            "sneeze",
+            "cough"
+        ],
+        "solution": "drink water"
+    }
+}
