@@ -15,7 +15,7 @@ Organize data formats and structure
   Objective: Remove duplicates
   Objective: Remove nulls
   Objective: Create 2-3 functionalities for cleaning up the data (COMPLETED)
-  Objective: Keep format consistency
+  Objective: Keep format consistency (COMPLETED)
 Set up tools 
   Objective: Choose tools to build the program (Git, IDE, etc.)
 
