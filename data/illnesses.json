@@ -1,11 +1,50 @@
 {
-    "common cold": {
-        "symptoms": [
-            "sore throat",
-            "runny nose",
-            "sneeze",
-            "cough"
-        ],
-        "solution": "drink water"
-    }
+  "Achilles tendinopathy": {
+    "symptoms": "pain at the back of the heel, tenderness when touched, slight warmth, weakness in ankle and foot",
+    "Info": "A condition where the tendon at the back of the ankle becomes sore, usually from overuse or injury."
+  },
+  "Acne": {
+    "symptoms": "pimples, oily skin, skin feels hot or sore, blackheads, whiteheads, red bumps, pus-filled spots, deep lumps",
+    "Info": "A common skin problem where pores get blocked, leading to spots on the face, back, or chest."
+  },
+  "Acute cholecystitis": {
+    "symptoms": "pain in upper right belly, fever, nausea, vomiting, yellow skin or eyes",
+    "Info": "Inflammation of the gallbladder, often caused by gallstones, requiring quick treatment."
+  },
+  "Acute lymphoblastic leukaemia": {
+    "symptoms": "easy bruising, frequent nosebleeds, tiredness, fever, bone or joint pain, pale skin, shortness of breath, frequent infections",
+    "Info": "A fast-growing blood cancer where abnormal white blood cells build up in the bone marrow."
+  },
+  "Acute myeloid leukaemia": {
+    "symptoms": "pale skin, easy bruising, frequent nosebleeds, tiredness, fever, weight loss, frequent infections",
+    "Info": "A blood cancer affecting myeloid cells, leading to abnormal white blood cell production."
+  },
+  "Acute pancreatitis": {
+    "symptoms": "sudden severe belly pain, pain spreading to the back, nausea, vomiting, fever",
+    "Info": "Sudden inflammation of the pancreas that needs urgent hospital care."
+  },
+  "Acute respiratory infection": {
+    "symptoms": "cough, runny nose, sneezing, sore throat, fever",
+    "Info": "Infection of the nose, throat, or lungs, often spreading like a cold."
+  },
+  "Addison’s disease": {
+    "symptoms": "tiredness, weight loss, low blood pressure, darkened skin, belly pain, mood changes",
+    "Info": "A condition where the adrenal glands do not make enough hormones."
+  },
+  "Adenomyosis": {
+    "symptoms": "painful periods, heavy bleeding, lower belly cramps",
+    "Info": "When the lining of the womb grows into the muscle wall of the uterus."
+  },
+  "Alcohol-related liver disease": {
+    "symptoms": "tiredness, loss of appetite, weight loss, yellow skin or eyes, swollen belly, easy bruising",
+    "Info": "Liver damage caused by drinking too much alcohol over time."
+  },
+  "Allergic rhinitis": {
+    "symptoms": "sneezing, runny nose, blocked nose, itchy eyes, watery eyes, reduced smell",
+    "Info": "An allergy that causes swelling inside the nose, often due to pollen or dust."
+  },
+  "Allergies": {
+    "symptoms": "skin rash, itching, swelling, coughing, shortness of breath, vomiting, diarrhea",
+    "Info": "When the immune system reacts too strongly to certain foods or substances."
+  }
 }
