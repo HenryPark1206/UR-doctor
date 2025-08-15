@@ -10,14 +10,14 @@ Define project scope and data sources (Reliable sources of vast information)
   Objective: Find 1-2 sources of information related (COMPLETED)
 Collect & clean a small dataset (Only enough for testing)
   Objective: Decide on data format (CSV, JSON, etc.) (COMPLETED)
-  Objective: Collect a small dataset using the discovered sources
+  Objective: Collect a small dataset using the discovered sources (COMPLETED)
 Organize data formats and structure
-  Objective: Remove duplicates
-  Objective: Remove nulls
+  Objective: Remove duplicates (COMPLETED)
+  Objective: Remove nulls (COMPLETED)
   Objective: Create 2-3 functionalities for cleaning up the data (COMPLETED)
   Objective: Keep format consistency (COMPLETED)
 Set up tools 
-  Objective: Choose tools to build the program (Git, IDE, etc.)
+  Objective: Choose tools to build the program (Git, IDE, etc.) (COMPLETED
 
 Summary
 A test-ready clean dataset
