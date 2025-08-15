@@ -14,22 +14,19 @@ def name_format(name):
         if c.isalpha():parsed += c
         else: parsed += ' '
     return parsed.lower()
-def add_illness(name: str, symptoms: list, solution: str):
+def add_illness(name: str, symptoms: str, info: str):
     path = get_path("illnesses")
     data = read(path)
     data[name] = dict()
     data[name]["symptoms"] = symptoms
-    data[name]["solution"] = solution
+    data[name]["Info"] = info
     with open(f'{path}', 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
-        print(f"illness added--> NAME {name} SYMPTOMS {symptoms} SOLUTION {solution}")
-
+        print(f"illness added--> NAME {name} SYMPTOMS {symptoms} INFO {info}")
 def add_symptoms(symptoms: list):
     path = get_path("symptoms")
     data = read(path)
     data["symptoms"] += symptoms
     with open(f'{path}', 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
-        print(f"symptoms added--> {symptoms}")
-add_illness("common cold", ["sore throat", "runny nose", "sneeze", "cough"], "drink water")
-add_symptoms(["sore throat"])
+        print(f"symptoms added --> {symptoms}")
